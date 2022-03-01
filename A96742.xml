@@ -1,0 +1,826 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Carmen eucharisticon: a private thank-oblation, exhibited to the glory of the lord of hosts, for the timely and wonderfull deliverance, vouchsafed to this nation, in the routing of a numerous Army of Irish rebells before Dublin, by the sword of his valiant servant, Michael Jones, Lieutenant-Generall for the Parliament or England. / Composed by Geo. Wither Esquire, August 29. 1649.</title>
+            <author>Wither, George, 1588-1667.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96742</idno>
+            <idno type="STC">Wing W3148</idno>
+            <idno type="STC">Thomason E572_6</idno>
+            <idno type="STC">ESTC R206168</idno>
+            <idno type="EEBO-CITATION">99865343</idno>
+            <idno type="PROQUEST">99865343</idno>
+            <idno type="VID">165368</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96742)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165368)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 88:E572[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Carmen eucharisticon: a private thank-oblation, exhibited to the glory of the lord of hosts, for the timely and wonderfull deliverance, vouchsafed to this nation, in the routing of a numerous Army of Irish rebells before Dublin, by the sword of his valiant servant, Michael Jones, Lieutenant-Generall for the Parliament or England. / Composed by Geo. Wither Esquire, August 29. 1649.</title>
+                  <author>Wither, George, 1588-1667.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Robert Austin,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Annotation on Thomason copy: "Aug. 30".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jones, Michael, d. 1649 --  Poetry --  Early works to 1800.</term>
+               <term>Ireland --  History --  1649-1660 --  Poetry --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165368:1" rendition="simple:additions"/>
+            <p>Carmen Euchariſticon: A PRIVATE THANK-OBLATION, Exhibited to the Glory of <hi>THE LORD OF HOSTS,</hi> FOR The timely and wonderfull Deliverance, vouchſafed to this NATION, in the routing of a numerous Army of Iriſh Rebells before <hi>Dublin,</hi> by the Sword of his valiant Servant, <hi>MICHAEL JONES,</hi> Lievtenant-Generall for the Parliament of ENGLAND.</p>
+            <p>Compoſed by <hi>Geo. Wither</hi> Eſquire, Auguſt 29. 1649.</p>
+            <q>
+               <l>The longeſt laſting <hi>Sacrifice</hi>
+               </l>
+               <l>Is that, which moſt neglected lies.</l>
+               <l>Sweet <hi>Incenſe</hi> into nothing fumes;</l>
+               <l>The <hi>Fat of Beaſts</hi> away conſumes;</l>
+               <l>A <hi>Song,</hi> which doth <hi>GOD's</hi> Works commend,</l>
+               <l>Continues longer; yet, hath end:</l>
+               <l>But <hi>perfect-love</hi> is an <hi>Oblation,</hi>
+               </l>
+               <l>Which hath no finall conſumation.</l>
+            </q>
+            <p>
+               <add>Aug: 30</add> 
+               <hi>London:</hi> Printed by <hi>Robert Auſtin.</hi> 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:165368:2"/>
+            <pb n="1" facs="tcp:165368:2"/>
+            <head>Carmen Euchariſticon: A PRIVATE THANK-OBLATION, EXHIBITED To the Glory of the LORD OF HOSTS, &amp;c.</head>
+            <lg>
+               <l>
+                  <hi>P<g ref="char:V">Ʋ</g>blike-Duties</hi> being done,</l>
+               <l>By my ſelf, Ile now alone,</l>
+               <l>Conſummate a <hi>Private-one.</hi>
+               </l>
+               <l>Therefore, O my Soul! awake;</l>
+               <l>And, let both, with heart and tongue,</l>
+               <l>Such a <hi>Song of Praiſe</hi> be ſung,</l>
+               <l>That, thereby, both old and young,</l>
+               <l>Of GOD's mercies heed may take.</l>
+            </lg>
+            <lg>
+               <l>For, ſuch <hi>Trophies</hi> (though now waved)</l>
+               <l>
+                  <hi>Moſes, Deborah,</hi> and <hi>David,</hi>
+               </l>
+               <l>When they from their foes were ſaved,</l>
+               <l>Did, with good acceptance, raiſe:</l>
+               <l>And (though other <hi>Thank-Oblations</hi>
+               </l>
+               <l>Periſh'd, with their Generations)</l>
+               <l>GOD is, yet, throughout all Nations,</l>
+               <l>Honor'd by their <hi>Songs of Praiſe.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>We, to thee, O LORD! have <hi>praid,</hi>
+               </l>
+               <l>
+                  <hi>Thanks</hi> returned, <hi>ſung,</hi> and <hi>ſaid,</hi>
+               </l>
+               <l>And, our <hi>common-duty</hi> paid,</l>
+               <l>As we could perform the ſame:</l>
+               <l>That, which we have ſeen, and heard,</l>
+               <l>Of thy <hi>mercifull regard,</hi>
+               </l>
+               <l>Hath been openly declar'd,</l>
+               <l>To the glory of thy <hi>Name.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>But, O GOD! we may as well</l>
+               <l>Cloſe the <hi>Seas</hi> up, in a <hi>ſhell,</hi>
+               </l>
+               <l>As inabled be to tell</l>
+               <l>Thy <hi>Compaſſions</hi> large extent;</l>
+               <l>Or, to make full illuſtration</l>
+               <l>Of thy favours to this <hi>Nation,</hi>
+               </l>
+               <l>In our frequent preſervation</l>
+               <l>From the furious <hi>Foes</hi> intent.</l>
+            </lg>
+            <lg>
+               <l>For, that <hi>ſingle-mercy,</hi> LORD,</l>
+               <l>Which this Day we do record,</l>
+               <l>Many <hi>mercies</hi> doth afford,</l>
+               <l>More then all men can perceive.</l>
+               <l>That <hi>Deliverance,</hi> made way</l>
+               <l>For another <hi>joyfull-day,</hi>
+               </l>
+               <l>And that, peradventure, may</l>
+               <l>Bring to paſſe, what we would have.</l>
+            </lg>
+            <lg>
+               <l>With vain <hi>Moab,</hi> did conſpire</l>
+               <l>
+                  <hi>Ammon, Amalek,</hi> and <hi>Tyre,</hi>
+               </l>
+               <l>Threatning, like conſuming fire,</l>
+               <l>To deſtroy thy <hi>choſen Flock;</hi>
+               </l>
+               <l>And, in hope, their will to do,</l>
+               <l>They have hired <hi>Balaam</hi> too,</l>
+               <l>With <hi>falſe Prophets</hi> many moe,</l>
+               <l>To advance a <hi>ſtumbling-block.</hi>
+               </l>
+            </lg>
+            <lg>
+               <pb n="2" facs="tcp:165368:3"/>
+               <l>Of their vaine preſumings proud,</l>
+               <l>They like Thunder from a cloud,</l>
+               <l>Did begin to roar aloud</l>
+               <l>In deluded peoples ears;</l>
+               <l>And their empty vanities,</l>
+               <l>Bluſhleſſe brags, and ſhameleſſe lies,</l>
+               <l>Fill'd the hearts of men unwiſe,</l>
+               <l>With falſe hopes, and cauſeleſſe fears.</l>
+            </lg>
+            <lg>
+               <l>The fool'd <hi>Welſh,</hi> the faithleſſe <hi>Scot,</hi>
+               </l>
+               <l>And our <hi>Engliſh</hi> miſ-begot,</l>
+               <l>Joyning in an <hi>Iriſh plot,</hi>
+               </l>
+               <l>Sought to root us from the <hi>Land:</hi>
+               </l>
+               <l>They with <hi>Sulphur, Sword,</hi> and <hi>Flame,</hi>
+               </l>
+               <l>Round about our <hi>dwellings</hi> came,</l>
+               <l>And, had brought us all to ſhame,</l>
+               <l>Had not, GOD, ſtretch'd forth his hand.</l>
+            </lg>
+            <lg>
+               <l>But, he, thereof notice took;</l>
+               <l>And, as <hi>Siſera</hi> he ſtrook,</l>
+               <l>With his Hoſt, by <hi>Kiſhon-brook;</hi>
+               </l>
+               <l>So, he ſmote them in their pride:</l>
+               <l>And, the ſame ſucceſſe they had</l>
+               <l>Which befell to <hi>Benhadad,</hi>
+               </l>
+               <l>When, the like account he made,</l>
+               <l>That, the <hi>ſpoile</hi> he ſhould divide.</l>
+            </lg>
+            <lg>
+               <l>For, whilſt <hi>Ormond,</hi> and while <hi>Taaff,</hi>
+               </l>
+               <l>In their Tents, did game, and quaff,</l>
+               <l>(At our ſad condition laugh)</l>
+               <l>And, of <hi>Captives</hi> prediſpos'd;</l>
+               <l>Then, that <hi>Arm,</hi> which they deſpis'd,</l>
+               <l>Suddenly, their <hi>Camp</hi> ſurpriz'd;</l>
+               <l>And, the ſnares, which they devis'd</l>
+               <l>For our feet, their owne inclos'd.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Mich'el,</hi> and his <hi>Angells,</hi> there</l>
+               <l>Threw their <hi>Dragon-Cavaliere,</hi>
+               </l>
+               <l>With his <hi>Angells,</hi> from our <hi>Sphere,</hi>
+               </l>
+               <l>In confuſion, to their owne;</l>
+               <l>Where, unable to repent,</l>
+               <l>They deſpairingly lament,</l>
+               <l>And blaſpheme with diſcontent,</l>
+               <l>
+                  <hi>Him,</hi> that hath ſuch <hi>mercy</hi> ſhowne.</l>
+            </lg>
+            <lg>
+               <l>For, though (blinded in their ſin)</l>
+               <l>
+                  <hi>Outwardly,</hi> they jeer and grin;</l>
+               <l>Helliſh horrors lurk within,</l>
+               <l>Filling their faint hearts with fears:</l>
+               <l>Their <hi>chief refuge,</hi> is a <hi>lie;</hi>
+               </l>
+               <l>And, which way ſoe're they fly,</l>
+               <l>
+                  <hi>Guilt</hi> purſues them with a cry,</l>
+               <l>Which the GOD of Juſtice hears.</l>
+            </lg>
+            <lg>
+               <l>Their accuſing <hi>conſcience,</hi> feels</l>
+               <l>
+                  <hi>Vengeance</hi> following them at heels,</l>
+               <l>And, her dreadfull Charet wheels</l>
+               <l>Threatning, what to them is due:</l>
+               <l>Yet, infernall indignation,</l>
+               <l>Stirs them up to vindication,</l>
+               <l>Height'ned by a deſperation</l>
+               <l>Of thoſe ends, which they purſue.</l>
+            </lg>
+            <lg>
+               <l>And, that made them take the field,</l>
+               <l>(Truſting in their ſword and ſhield)</l>
+               <l>When their conſcience bid them yeeld:</l>
+               <l>But, they ſoon did back retire,</l>
+               <l>And, to fly away began,</l>
+               <l>As when the <hi>Philiſtins</hi> ran,</l>
+               <l>From the ſword of <hi>Jonathan,</hi>
+               </l>
+               <l>And, but one ſleight armed <hi>Squire.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Never was there ſuch a day</l>
+               <l>Seen till then at<note n="*" place="margin">Dublin.</note> 
+                  <hi>Ballacleagh,</hi>
+               </l>
+               <l>Since the<note n="†" place="margin">The River at Dublin.</note> 
+                  <hi>Liffy</hi> waſh'd her Kea,</l>
+               <l>And, there, firſt, the<note n="‖" place="margin">The Sea Water.</note> 
+                  <hi>Sea-Nimphs</hi> met:</l>
+               <l>For, GOD's arm, did there, and then,</l>
+               <l>Give us <hi>Limster</hi> back agen,</l>
+               <l>When it was nigh loſt; and, when,</l>
+               <l>
+                  <hi>Hope,</hi> was with <hi>deſpairs</hi> beſet.</l>
+            </lg>
+            <lg>
+               <l>Yet, as if that daies ſucceſſe,</l>
+               <l>Had too little been, unleſſe</l>
+               <l>He conſider'd our diſtreſſe,</l>
+               <l>In our <hi>London-Derry</hi> friends;</l>
+               <l>Or, leſt els, blind <hi>ignorance</hi>
+               </l>
+               <l>Might judge, that an act of <hi>chance,</hi>
+               </l>
+               <l>He, our free <hi>deliverance,</hi>
+               </l>
+               <l>Into <hi>
+                     <g ref="char:V">Ʋ</g>lſter,</hi> too, extends.</l>
+            </lg>
+            <lg>
+               <pb n="3" facs="tcp:165368:3"/>
+               <l>And, by that redoubled blow,</l>
+               <l>Gave another overthrow;</l>
+               <l>For, <hi>Deſignements</hi> one or two,</l>
+               <l>By that means diſſolved be:</l>
+               <l>Which hath ſo inraged them,</l>
+               <l>That, they raile, revile, blaſpheme,</l>
+               <l>And their own beleefe condemn,</l>
+               <l>For believing what they ſee.</l>
+            </lg>
+            <lg>
+               <l>Oh! what pen, or tongue is there</l>
+               <l>Fully able to declare,</l>
+               <l>What, to us, GOD'S <hi>Mercies</hi> were</l>
+               <l>Since our <hi>Champion</hi> he hath been?</l>
+               <l>Nay, who can half that recite,</l>
+               <l>VVhich for us, in open ſight,</l>
+               <l>He hath done ſince <hi>Nasby-Fight,</hi>
+               </l>
+               <l>Where, he, firſt, was plainly ſeen?</l>
+            </lg>
+            <lg>
+               <l>He hath magnifi'd his <hi>worth</hi>
+               </l>
+               <l>In moſt glorious marchings forth,</l>
+               <l>From the <hi>South,</hi> unto the <hi>North,</hi>
+               </l>
+               <l>And, through all our <hi>Britiſh-Coaſts;</hi>
+               </l>
+               <l>
+                  <hi>England, Scotland, Ireland, Wales,</hi>
+               </l>
+               <l>
+                  <hi>Towns,</hi> and <hi>Fields,</hi> and <hi>Hills,</hi> and <hi>Dales,</hi>
+               </l>
+               <l>
+                  <hi>Sea,</hi> and <hi>Land,</hi> him, juſtly calls</l>
+               <l>The Victorious LORD of HOASTS.</l>
+            </lg>
+            <lg>
+               <l>Frequently, our eyes behold,</l>
+               <l>
+                  <hi>Mercies,</hi> great and manifold,</l>
+               <l>Such, as were in times of old,</l>
+               <l>By his <hi>Choſen Flock</hi> enjoy'd:</l>
+               <l>Such, as were vouchſafed, when</l>
+               <l>
+                  <hi>Hundreds,</hi> chaſed were by <hi>ten;</hi>
+               </l>
+               <l>
+                  <hi>Thouſands,</hi> by a hundred men,</l>
+               <l>And great <hi>Hoasts,</hi> by few deſtroy'd.</l>
+            </lg>
+            <lg>
+               <l>VVe have ſeen God marching, ſo,</l>
+               <l>VVith our <hi>Friends,</hi> againſt our <hi>Foe,</hi>
+               </l>
+               <l>As he did, long time ago,</l>
+               <l>VVhen his-<hi>Iſr'el</hi> were oppreſt:</l>
+               <l>And, ſecuring us from feare;</l>
+               <l>VVhen our hopes at loweſt were;</l>
+               <l>VVhen deſpis'd, we did appeare,</l>
+               <l>And our-perill moſt increaſt.</l>
+            </lg>
+            <lg>
+               <l>VVhen all ſeem'd at once on fire;</l>
+               <l>VVhen our <hi>Brethren</hi> did conſpire,</l>
+               <l>VVith our <hi>Foes,</hi> to blow that higher,</l>
+               <l>VVhich did flame too high, before;</l>
+               <l>VVhen within their hearts they ſaid,</l>
+               <l>
+                  <hi>We ſo deep, our Plots have laid,</hi>
+               </l>
+               <l>
+                  <hi>That divine, with humane aid,</hi>
+               </l>
+               <l>
+                  <hi>Shall prevent them, now no more.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Yea, when ſaid it was by ſome,</l>
+               <l>
+                  <hi>What is of their God become,</hi>
+               </l>
+               <l>
+                  <hi>Who, they dream'd, ſhould ſave them from</hi>
+               </l>
+               <l>
+                  <hi>What our Counſell hath decreed?</hi>
+               </l>
+               <l>Then, did God, himſelf, ariſe;</l>
+               <l>Then, his <hi>Arme,</hi> in glorious wiſe,</l>
+               <l>Saves us from our <hi>Enemies,</hi>
+               </l>
+               <l>In the times of greateſt need.</l>
+            </lg>
+            <lg>
+               <l>And not only from their power,</l>
+               <l>(Arm'd, and gaping to devoure,)</l>
+               <l>Hath he kept this Land of our,</l>
+               <l>But, he more then this hath done;</l>
+               <l>Them, who to inſlave us thought,</l>
+               <l>And, our cauſleſſe ruine ſought,</l>
+               <l>Underneath our feet he brought,</l>
+               <l>That they might be trod upon.</l>
+            </lg>
+            <lg>
+               <l>Nay, we have, yet more to ſay:</l>
+               <l>Though our <hi>Foes,</hi> lie night and day,</l>
+               <l>In our boſomes, to betray;</l>
+               <l>And diſguiſed are like Friends;</l>
+               <l>God, hath ſtill prevented ſo,</l>
+               <l>VVhat their malice prompts them to,</l>
+               <l>That, themſelves, they ſtill undo;</l>
+               <l>But, accompliſh not their ends.</l>
+            </lg>
+            <lg>
+               <l>VVe have ſeen GOD, in our daies,</l>
+               <l>VValking on, in all thoſe <hi>waies,</hi>
+               </l>
+               <l>VVhich (to his eternall praiſe)</l>
+               <l>VVere in <hi>former Ages,</hi> trod:</l>
+               <l>In our <hi>joyes,</hi> and when we <hi>weep,</hi>
+               </l>
+               <l>In our <hi>wakings,</hi> in our <hi>ſleep,</hi>
+               </l>
+               <l>On the <hi>Heights,</hi> and in the <hi>Deep,</hi>
+               </l>
+               <l>VVe have ſeen thy ſteps O GOD!</l>
+            </lg>
+            <lg>
+               <pb n="4" facs="tcp:165368:4"/>
+               <l>We have ſeen, here, where we dwell,</l>
+               <l>Works of thine, which parallel</l>
+               <l>All that <hi>ancient-ſtories</hi> tell</l>
+               <l>Touching either <hi>Foes,</hi> or <hi>Friends.</hi>
+               </l>
+               <l>Yea, if all <hi>Records</hi> were loſt,</l>
+               <l>We by that, which now thou doſt,</l>
+               <l>Might collect what do we muſt,</l>
+               <l>And, what each mans <hi>way</hi> attends.</l>
+            </lg>
+            <lg>
+               <l>We have ſeen (and ſee we ſhall)</l>
+               <l>What to <hi>Pharoah</hi> did befall,</l>
+               <l>And ordained is for all</l>
+               <l>VVho ſhall obſtinate remain:</l>
+               <l>VVe have ſeen, that upon ſuch,</l>
+               <l>
+                  <hi>Plagues,</hi> or <hi>Mercies</hi> work not much,</l>
+               <l>And, that theſe two often touch</l>
+               <l>On ſome, ſoftned hearts, in vain.</l>
+            </lg>
+            <lg>
+               <l>VVe have known men, once or twice,</l>
+               <l>VVarned; yea, afflicted thrice;</l>
+               <l>Yet, <hi>habituated Vice,</hi>
+               </l>
+               <l>In her poſture doth abide</l>
+               <l>And, her <hi>Lovers,</hi> without ſtop,</l>
+               <l>Proſecute their fruitleſſe <hi>hope,</hi>
+               </l>
+               <l>Though their <hi>Partners</hi> daily drop,</l>
+               <l>Down to hell, on ev'ry ſide.</l>
+            </lg>
+            <lg>
+               <l>We have ſeen the pride of <hi>Kings,</hi>
+               </l>
+               <l>With thoſe much deſired things,</l>
+               <l>Whence their vain ambition ſprings,</l>
+               <l>Scorn'd, deſpis'd, and ſet at nought.</l>
+               <l>VVe, their <hi>ſilk,</hi> their <hi>pearls,</hi> their <hi>gold,</hi>
+               </l>
+               <l>And their <hi>prccious Jemms,</hi> behold</l>
+               <l>Scattred, pawned, bought and ſold;</l>
+               <l>And to ſhame, their glory brought.</l>
+            </lg>
+            <lg>
+               <l>VVe have ſeen fair ſeeming <hi>Starrs,</hi>
+               </l>
+               <l>Thither tumbled from high Sphears,</l>
+               <l>VVhere their vanity appears;</l>
+               <l>And that <hi>wiſemen</hi> may diſpenſe</l>
+               <l>VVith deluding <hi>Sophistries,</hi>
+               </l>
+               <l>To promote, what they deviſe,</l>
+               <l>Till they put their truſt in <hi>lies,</hi>
+               </l>
+               <l>Through a <hi>reprobated ſenſe.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>VVe have ſeen, when GOD, once, makes</l>
+               <l>Search for <hi>Blood,</hi> what <hi>hills</hi> he ſhakes;</l>
+               <l>VVhat high <hi>Cedars,</hi> down he breaks;</l>
+               <l>And what portion he prepares</l>
+               <l>For <hi>Apoſtates, Balaamites,</hi>
+               </l>
+               <l>For blood-thirſty <hi>Canaanites,</hi>
+               </l>
+               <l>And ſelf-ſeeking <hi>Hypocrites,</hi>
+               </l>
+               <l>VVhen their ſin at full appears.</l>
+            </lg>
+            <lg>
+               <l>All theſe things, and many moe</l>
+               <l>Such as theſe, we ſee and know:</l>
+               <l>Oh! that we could mind them too!</l>
+               <l>And our lives thereby amend:</l>
+               <l>For his <hi>Mercy</hi> ſhown of late,</l>
+               <l>(And which we commemorate,</l>
+               <l>By Commandment from the <hi>State</hi>)</l>
+               <l>Was vouchſafed to that end.</l>
+            </lg>
+            <lg>
+               <l>Let us therefore not ſuppoſe,</l>
+               <l>'Tis enough to do like thoſe,</l>
+               <l>VVho make only <hi>Verball ſhowes</hi>
+               </l>
+               <l>Of the duties in command;</l>
+               <l>For, unleſſe, in deeds, as well</l>
+               <l>As in <hi>words,</hi> our thanks we tell,</l>
+               <l>As unthankfully we deal,</l>
+               <l>As if we had curſt, and ban'd.</l>
+            </lg>
+            <lg>
+               <l>Yea, although our <hi>Temples</hi> ring</l>
+               <l>Of GODS praiſe; though loud we ſing,</l>
+               <l>And all thoſe <hi>Thank-offrings</hi> bring,</l>
+               <l>VVhich the <hi>Formaliſt</hi> oblates;</l>
+               <l>Yet, if we perform no more,</l>
+               <l>He our <hi>preſents</hi> doth abhor,</l>
+               <l>As the hiring of a whore,</l>
+               <l>And our vain <hi>Lip-ſervice</hi> hates.</l>
+            </lg>
+            <lg>
+               <l>If, we therewith, do not heed,</l>
+               <l>How with us GOD doth proceed;</l>
+               <l>And, how, he at every need,</l>
+               <l>Hears us, timely, when we call,</l>
+               <l>That, to ſuch, as helpleſſe lie,</l>
+               <l>VVe may yeild the like ſupply,</l>
+               <l>VVhen to us, for help they cry;</l>
+               <l>VVe, ere long time, rue it ſhall.</l>
+            </lg>
+            <lg>
+               <pb n="5" facs="tcp:165368:4"/>
+               <l>Yea, unleſſe we pity more</l>
+               <l>The oppreſſions of the <hi>poore,</hi>
+               </l>
+               <l>Then we-have done heretofore,</l>
+               <l>And to <hi>Juſtice</hi> more adhere;</l>
+               <l>This, will prove but a <hi>deluſion,</hi>
+               </l>
+               <l>And all <hi>mercies</hi> in concluſion,</l>
+               <l>Bring upon us juſt confuſion,</l>
+               <l>When ſuch vengeance we leaſt feare.</l>
+            </lg>
+            <lg>
+               <l>Still, in <hi>ſelfneſſe</hi> if we live;</l>
+               <l>Much receive, but nothing give;</l>
+               <l>Cheare our ſelves, and others grieve;</l>
+               <l>We are in the <hi>way</hi> of <hi>death:</hi>
+               </l>
+               <l>And, of whatſoe're eſteem,</l>
+               <l>In our owne conceits, we ſeem,</l>
+               <l>God will caſt us quite from him,</l>
+               <l>If we ſettle in that <hi>path.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>For, it is for nothing leſſe</l>
+               <l>Then this <hi>Nations</hi> righteouſneſſe,</l>
+               <l>Or, our ſakes, that GOD doth bleſſe</l>
+               <l>Thoſe deſignes we undertake:</l>
+               <l>But, 'tis rather from their ſin,</l>
+               <l>Who have our <hi>oppoſers</hi> been,</l>
+               <l>Whence our <hi>Victories</hi> begin,</l>
+               <l>And, for GOD's free mercy ſake.</l>
+            </lg>
+            <lg>
+               <l>For no <hi>goodneſſe</hi> of our owne,</l>
+               <l>Did GOD's hand the <hi>King</hi> uncrowne,</l>
+               <l>And pull other <hi>Tyrants</hi> downe;</l>
+               <l>Nor, becauſe, he, yet, doth ſee</l>
+               <l>That our zealous <hi>Proteſtations,</hi>
+               </l>
+               <l>Or pretended <hi>Reformations</hi>
+               </l>
+               <l>Of our great abhominations,</l>
+               <l>With our practiſes agree.</l>
+            </lg>
+            <lg>
+               <l>But by <hi>mercie</hi> he makes way.</l>
+               <l>To his <hi>feare;</hi> that, yet we may</l>
+               <l>
+                  <hi>Hear his voice, while 'tis, to day;</hi>
+               </l>
+               <l>Whereunto, if we incline,</l>
+               <l>Maugre, then, all former ſinnings,</l>
+               <l>Our late ſeaſonable winnings,</l>
+               <l>Shall be pledges, and beginnings</l>
+               <l>Of a <hi>mercy</hi> more divine.</l>
+            </lg>
+            <lg>
+               <l>Oh, now therefore, let our <hi>praiſe</hi>
+               </l>
+               <l>Be <hi>right-walkings,</hi> in his <hi>wayes,</hi>
+               </l>
+               <l>And, <hi>believing</hi> what he ſaies:</l>
+               <l>Let our <hi>thankfulneſſe</hi> be, ſtill,</l>
+               <l>In true charity expreſt;</l>
+               <l>In relieving men oppreſt;</l>
+               <l>And, indeavouring our beſt,</l>
+               <l>In obedience, to his <hi>will.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Let us prudently forbeare</l>
+               <l>To wax proud, or domineere,</l>
+               <l>When GOD, for us, doth appeare;</l>
+               <l>And, with <hi>awe</hi> expreſſe our joy:</l>
+               <l>Leſt, if we preſumptuous grow,</l>
+               <l>He may (for our doing ſo)</l>
+               <l>Turne his anger from our <hi>Foe;</hi>
+               </l>
+               <l>Or, both <hi>him</hi> and <hi>us</hi> deſtroy.</l>
+            </lg>
+            <lg>
+               <l>We have ſeen the <hi>ſtrong</hi> defeated;</l>
+               <l>By himſelf, the <hi>cheater cheated;</hi>
+               </l>
+               <l>
+                  <hi>Men ambitious</hi> lower ſeated;</l>
+               <l>And, long-fixed <hi>Pow'rs</hi> remov'd;</l>
+               <l>Nay, ev'n ſuch as we reputed</l>
+               <l>Things divinely conſtituted,</l>
+               <l>Are deſtroy'd; and, they confuted,</l>
+               <l>Who, have them, for ſuch, approv'd.</l>
+            </lg>
+            <lg>
+               <l>We have ſeen thoſe things deſpiſed,</l>
+               <l>Which our <hi>Fathers</hi> highly prized,</l>
+               <l>And the <hi>whole earth</hi> Idolized;</l>
+               <l>Therefore, let us, now, for ever,</l>
+               <l>Conſtant be to that <hi>perfection,</hi>
+               </l>
+               <l>Which deſerveth not rejection,</l>
+               <l>And, renounce our vaine affection</l>
+               <l>To the waies of our <hi>deceiver.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Let thoſe things, which GOD hath done</l>
+               <l>For theſe <hi>Iſles,</hi> be thought upon,</l>
+               <l>Not at ſuch ſet times, alone,</l>
+               <l>As the <hi>Civill Pow'rs</hi> command;</l>
+               <l>But; now let us; <hi>all our dayes,</hi>
+               </l>
+               <l>Meditate his <hi>works,</hi> and <hi>waies,</hi>
+               </l>
+               <l>And be mindfull of his <hi>praiſe;</hi>
+               </l>
+               <l>Whilſt there ſhall be Sea, or Land.</l>
+            </lg>
+            <lg>
+               <pb n="6" facs="tcp:165368:5"/>
+               <l>And, Oh my eternall Lord!</l>
+               <l>Let thy al-ſubduing <hi>Sword,</hi>
+               </l>
+               <l>But, that chiefly of thy <hi>Word,</hi>
+               </l>
+               <l>Thus prevaile, for evermore;</l>
+               <l>Make it ſtill victorious grow,</l>
+               <l>Till to thee all <hi>Monarchs</hi> bow,</l>
+               <l>And, till vengeance thou ſhalt throw</l>
+               <l>On the <hi>Dragon,</hi> and the <hi>Whore.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Well accept, this day, what wee</l>
+               <l>Have in publike offred thee;</l>
+               <l>And, this <hi>private Mite,</hi> from me,</l>
+               <l>Which I now preſume to add:</l>
+               <l>For, in ev'ry <hi>Act of Grace,</hi>
+               </l>
+               <l>Which by thee vouchſafed was,</l>
+               <l>Since my breathings in this <hi>place,</hi>
+               </l>
+               <l>I, ſome ſpeciall <hi>fruits</hi> have had.</l>
+            </lg>
+            <lg>
+               <l>In the many variations</l>
+               <l>Of thy <hi>works,</hi> and <hi>diſpenſations,</hi>
+               </l>
+               <l>Unto theſe <hi>divided Nations,</hi>
+               </l>
+               <l>I have learn'd to find out <hi>thee.</hi>
+               </l>
+               <l>I, by them, thy mind diſcover,</l>
+               <l>And, I daily read thee over,</l>
+               <l>As my <hi>God, King, Father, Lover;</hi>
+               </l>
+               <l>And, as <hi>all</hi> in <hi>all,</hi> to mee.</l>
+            </lg>
+            <lg>
+               <l>I have found thee in their <hi>failings;</hi>
+               </l>
+               <l>In their <hi>loſings,</hi> and <hi>prevailings;</hi>
+               </l>
+               <l>In their <hi>joyes,</hi> and their <hi>bewailings;</hi>
+               </l>
+               <l>In their <hi>hardneſſe,</hi> and their <hi>blindneſſe:</hi>
+               </l>
+               <l>In their <hi>Truſt,</hi> and their <hi>ſuſpitions,</hi>
+               </l>
+               <l>In their <hi>falſe,</hi> and <hi>true profeſſions,</hi>
+               </l>
+               <l>In their <hi>good,</hi> and <hi>bad conditions;</hi>
+               </l>
+               <l>In their <hi>love,</hi> and their <hi>unkindneſſe.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>And, although this <hi>Generation,</hi>
+               </l>
+               <l>Yet, beholds not what relation,</l>
+               <l>To their <hi>fall;</hi> or <hi>preſervation,</hi>
+               </l>
+               <l>My deſpiſed <hi>Poems</hi> have;</l>
+               <l>Some, ere long, will better heed them,</l>
+               <l>And (though few, now, think they need them)</l>
+               <l>Thou, wilt give them cauſe to read them,</l>
+               <l>VVhen I ſhall be in my <hi>grave.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Oh! till then, let me perſever,</l>
+               <l>My known <hi>duties</hi> to endeavour,</l>
+               <l>VVith true <hi>patience,</hi> howſoever</l>
+               <l>Thou ſhalt exerciſe my <hi>Faith:</hi>
+               </l>
+               <l>And, in ev'ry ſtrong <hi>Temptation,</hi>
+               </l>
+               <l>
+                  <hi>Tryall, Straight,</hi> or <hi>Tribulation,</hi>
+               </l>
+               <l>Mind me, for my <hi>Conſolation,</hi>
+               </l>
+               <l>VVhat, thy truthfull <hi>Spirit</hi> ſaith.</l>
+            </lg>
+            <lg>
+               <l>To what ever, thou ſhalt call me,</l>
+               <l>Or, what ever may befall me,</l>
+               <l>Let no <hi>Terrene-Power</hi> appale me,</l>
+               <l>From declaring of thy <hi>Truth;</hi>
+               </l>
+               <l>Let me, all my wits apply,</l>
+               <l>Thy great <hi>Name</hi> to magnifie,</l>
+               <l>VVhilſt I live; and when I die,</l>
+               <l>Let thy <hi>praiſe</hi> be in my mouth.</l>
+            </lg>
+            <lg>
+               <l>And, when here I have compleated,</l>
+               <l>That, for which I was created,</l>
+               <l>Let me thither be tranſlated,</l>
+               <l>VVhere thy <hi>Saints,</hi> the <hi>Lamb</hi> attend;</l>
+               <l>That, I, may in praiſing him,</l>
+               <l>There communicate with them,</l>
+               <l>In that everlaſting <hi>Hymn,</hi>
+               </l>
+               <l>VVhich, will never have an end.</l>
+            </lg>
+            <closer>AMEN. HALELUJAH.</closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
